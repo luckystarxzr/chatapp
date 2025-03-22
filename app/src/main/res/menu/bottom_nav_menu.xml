@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/navigation_chats" android:title="@string/title_chats" android:icon="@drawable/ic_chats"/>
+    <item android:id="@+id/navigation_contacts" android:title="@string/title_contacts" android:icon="@drawable/ic_contacts"/>
+    <item android:id="@+id/navigation_discover" android:title="@string/title_discover" android:icon="@drawable/ic_discover"/>
+    <item android:id="@+id/navigation_me" android:title="@string/title_me" android:icon="@drawable/ic_me"/>
+</menu>

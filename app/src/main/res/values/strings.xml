@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WxChat</string>
+    <string name="title_chats">Chats</string>
+    <string name="title_contacts">Contacts</string>
+    <string name="title_discover">Discover</string>
+    <string name="title_me">Me</string>
+</resources>
